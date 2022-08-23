@@ -23,3 +23,5 @@ main().catch((error) => {
 console.error(error);
 process.exitCode = 1;
 });
+
+//@dev - note - my contract is deploy to Goerli testnest [0xf483b9065a15ef22947BDcFbFb2Bb77C398512A8]
